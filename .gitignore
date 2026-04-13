@@ -18,6 +18,10 @@ dist/
 build/
 .eggs/
 
+# Notebooks ejecutados (tienen outputs pesados y paths locales)
+*_executed.ipynb
+.ipynb_checkpoints/
+
 # Tests / cache
 .pytest_cache/
 .coverage
