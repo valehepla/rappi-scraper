@@ -1,0 +1,47 @@
+[
+  {
+    "id": "bigmac",
+    "name": "Big Mac",
+    "category": "fast_food",
+    "restaurant": "McDonald's",
+    "search_terms": ["Big Mac", "bigmac"],
+    "reference_price_mxn": 95,
+    "notes": "Producto estandarizado globalmente, ideal para comparación de precios"
+  },
+  {
+    "id": "combo_mediano",
+    "name": "Combo Mediano McDonald's",
+    "category": "fast_food",
+    "restaurant": "McDonald's",
+    "search_terms": ["Combo Mediano", "Combo 1", "Cuarto de Libra Combo"],
+    "reference_price_mxn": 139,
+    "notes": "Combo más vendido, refleja precio real con acompañantes"
+  },
+  {
+    "id": "nuggets_6",
+    "name": "McNuggets 6 piezas",
+    "category": "fast_food",
+    "restaurant": "McDonald's",
+    "search_terms": ["McNuggets", "Nuggets 6", "6 piezas"],
+    "reference_price_mxn": 85,
+    "notes": "SKU popular y de precio accesible, buena referencia para segmento popular"
+  },
+  {
+    "id": "cocacola_500",
+    "name": "Coca-Cola 500ml",
+    "category": "retail",
+    "restaurant": "OXXO",
+    "search_terms": ["Coca-Cola 500", "Coca Cola 500ml", "Coca 500"],
+    "reference_price_mxn": 22,
+    "notes": "Producto retail de referencia global, permite comparar markup de plataformas"
+  },
+  {
+    "id": "agua_1l",
+    "name": "Agua embotellada 1L",
+    "category": "retail",
+    "restaurant": "OXXO",
+    "search_terms": ["Agua 1L", "Agua purificada", "Bonafont 1L", "Ciel 1L"],
+    "reference_price_mxn": 18,
+    "notes": "Commodity de precio conocido, revela estrategia de markup por plataforma"
+  }
+]
